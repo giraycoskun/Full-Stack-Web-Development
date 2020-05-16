@@ -4,8 +4,6 @@ Learn React, Redux, Node.js, MongoDB, GraphQL and TypeScript in one go! This cou
 
 https://fullstackopen.com/en
 
-https://github.com/giraycoskun/Full_Stack_Web_Development.git
-
 ---
 **$ npx create-react-app \{ProjectName}**
 
